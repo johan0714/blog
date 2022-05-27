@@ -6,23 +6,26 @@
 
 body{
     display: flex;
+    background-color: cornflowerblue;
     justify-content: center;
     align-items: center;
-    align-content: center;
-    
+   
 }
+.contenido{
+    display: flex;
+    background-color: rgb(225, 134, 15);
+    width: 82%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;}
 
-.contenedor{
+.contenido_2{
+    display: flex;
     border-radius: 15px;
     align-items: center;
     justify-content: center;
     display: flex;
     flex-direction: column;
     background-color: rgb(26, 181, 140);
-width: 100vh;
-height: 100vh;}
+}
 
-main{display: flex;
-justify-content: center;
-align-items: center;
-background-color: rgb(225, 134, 15);}
