@@ -34,3 +34,8 @@ border: 1px solid;
 margin:0 auto;}
 
 #container h1{ font-size: 40px;}
+
+footer{
+    background-color: #33a;
+color: black;
+font-size: 0.8cm;}
