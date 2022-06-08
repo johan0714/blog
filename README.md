@@ -2,7 +2,7 @@
 >Este es un blog bastante completo para aprender sobre el control de versiones en gitHub y la terminal de linea de comandos se los recomiendo muy conciso.
 
 
-##Loguito
+## Loguito
 
 
 ![](https://github.com/johan0714/blog/blob/main/images.jpg?raw=true)
