@@ -1,4 +1,4 @@
-##Blog - Sobre guithub! :tw-1f49a:
+##Blog - Sobre guithub! 💙
 >Este es un blog bastante completo para aprender sobre el control de versiones en gitHub y la terminal de linea de comandos se los recomiendo muy conciso.
 
 
